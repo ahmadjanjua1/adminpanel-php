@@ -10,3 +10,9 @@ It has the following Features:
 6. Updating Monthly Salary
 7. Updating Salary Month
 8. Deleting Employee Detials
+
+
+#MySQL Database
+
+For the working of code make sure you have download folder Mysql Connection
+After Downloading import this file into your phpmyadmin or use this as the tables used in code
